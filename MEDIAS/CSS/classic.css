@@ -1,0 +1,81 @@
+body{
+    height: 100vh;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+
+h1.titrenav {
+    width: 100vw;
+    height: 7vh;
+    text-align: center;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+    background-color: #98D077;
+    color: #fff;
+}
+
+.titreConnexion{
+    margin-top: 8vh;
+     margin-bottom: 8vh;
+    text-align: center;
+    font-weight: 100;
+}
+.bouton-nav {
+    height: 5vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.bouton-nav a{
+    color: #fff;
+    border-left:0.5px solid #000;
+    flex: 1;
+    padding: 1em;
+    text-align: center;
+    background-color: #6D8764;
+    text-decoration: none;
+}
+
+.modal-dialog {
+    margin-top: 0 !important;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-group.text-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+ input.form-control {
+        width: 20vw;
+        height: 7vh;
+    }
+
+    form {
+        font-size: 1.5em;
+        width: 60vw;
+        text-align: center;
+    }
+
+    .input-group {
+        margin-bottom: 5em;
+    }
+
+    label {
+        margin-bottom: 2em !important;
+    }
+
+/*#98D077*/
+/*#6D8764*/
+/*#CDEB8B*/
+
+
